@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DSA\\Valid Anagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FE2F49-865E-4D7E-A7E5-FF7FAFE815AC}|Valid Anagram\\Valid Anagram.csproj|d:\\projects\\dsa\\valid anagram\\valid anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FE2F49-865E-4D7E-A7E5-FF7FAFE815AC}|Valid Anagram\\Valid Anagram.csproj|solutionrelative:valid anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DSA\\Valid Anagram\\Valid Anagram\\Program.cs",
+              "RelativeDocumentMoniker": "Valid Anagram\\Program.cs",
+              "ToolTip": "D:\\Projects\\DSA\\Valid Anagram\\Valid Anagram\\Program.cs",
+              "RelativeToolTip": "Valid Anagram\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:09:04.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
